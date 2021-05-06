@@ -1,0 +1,77 @@
+sentences.index,originalText,pos,ner,lemma,file_name
+0,Multicast,NNP,O,Multicast,../data/attempt/44195.csv
+0,DNS,NNP,O,DNS,../data/attempt/44195.csv
+0,Vulnerability,NNP,O,Vulnerability,../data/attempt/44195.csv
+0,Could,MD,O,could,../data/attempt/44195.csv
+0,Lead,JJ,O,lead,../data/attempt/44195.csv
+0,to,TO,O,to,../data/attempt/44195.csv
+0,DDOS,NNP,O,DDOS,../data/attempt/44195.csv
+0,Amplification,NNP,O,Amplification,../data/attempt/44195.csv
+0,Attacks,NNS,CAUSE_OF_DEATH,attack,../data/attempt/44195.csv
+0,:,:,O,:,../data/attempt/44195.csv
+0,http://threatpost.com/multicast-dns-vulnerability-could-lead-to-ddos-amplification-attacks/111936 …,NN,O,http://threatpost.com/multicast-dns-vulnerability-could-lead-to-ddos-amplification-attacks/111936 …,../data/attempt/44195.csv
+0,via,IN,O,via,../data/attempt/44195.csv
+0,@threatpost,FW,O,@threatpost,../data/attempt/44195.csv
+0,Adobe,NNP,O,Adobe,../data/attempt/44194.csv
+0,Launches,NNP,O,Launches,../data/attempt/44194.csv
+0,Cash-Free,NNP,O,Cash-Free,../data/attempt/44194.csv
+0,Vulnerability,NNP,O,Vulnerability,../data/attempt/44194.csv
+0,Disclosure,NNP,O,Disclosure,../data/attempt/44194.csv
+0,Program,NNP,O,Program,../data/attempt/44194.csv
+0,-,:,O,-,../data/attempt/44194.csv
+0,Infosecurity,NNP,O,Infosecurity,../data/attempt/44194.csv
+0,Magazine,NNP,O,Magazine,../data/attempt/44194.csv
+0,#webappsecurity,NN,O,#webappsecurity,../data/attempt/44194.csv
+0,http://dragplus.com/post/id/29158493 …,NN,O,http://dragplus.com/post/id/29158493 …,../data/attempt/44194.csv
+0,The,DT,O,the,../data/attempt/44190.csv
+0,power,NN,O,power,../data/attempt/44190.csv
+0,of,IN,O,of,../data/attempt/44190.csv
+0,vulnerability,NN,O,vulnerability,../data/attempt/44190.csv
+0,https://www.ted.com/talks/brene_brown_on_vulnerability …,NN,O,https://www.ted.com/talks/brene_brown_on_vulnerability …,../data/attempt/44190.csv
+0,Multicast,NNP,O,Multicast,../data/attempt/44191.csv
+0,DNS,NNP,O,DNS,../data/attempt/44191.csv
+0,Vulnerability,NNP,O,Vulnerability,../data/attempt/44191.csv
+0,Could,MD,O,could,../data/attempt/44191.csv
+0,Lead,JJ,O,lead,../data/attempt/44191.csv
+0,to,TO,O,to,../data/attempt/44191.csv
+0,DDOS,NNP,O,DDOS,../data/attempt/44191.csv
+0,Amplification,NNP,O,Amplification,../data/attempt/44191.csv
+0,Attacks,NNS,CAUSE_OF_DEATH,attack,../data/attempt/44191.csv
+0,http://fb.me/1D6LVXjrT ,NN,O,http://fb.me/1d6lvxjrt ,../data/attempt/44191.csv
+0,Vulnerability,NN,O,vulnerability,../data/attempt/44193.csv
+0,found,VBN,O,find,../data/attempt/44193.csv
+0,in,IN,O,in,../data/attempt/44193.csv
+0,#YouTube,NN,O,#youtube,../data/attempt/44193.csv
+0,that,WDT,O,that,../data/attempt/44193.csv
+0,allowed,VBD,O,allow,../data/attempt/44193.csv
+0,anyones,NNS,O,anyone,../data/attempt/44193.csv
+0,',POS,O,',../data/attempt/44193.csv
+0,video,NN,O,video,../data/attempt/44193.csv
+0,to,TO,O,to,../data/attempt/44193.csv
+0,be,VB,O,be,../data/attempt/44193.csv
+0,deleted,VBN,O,delete,../data/attempt/44193.csv
+0,.,.,O,.,../data/attempt/44193.csv
+1,http://www.latesthackingnews.com/2015/04/01/vulnerability-found-in-youtube-that-allowed-anyone-to-delete-someones-video/ …pic.twitter.com/MUGI0rq88g,NN,DATE,http://www.latesthackingnews.com/2015/04/01/vulnerability-found-in-youtube-that-allowed-anyone-to-delete-someones-video/ …pic.twitter.com/mugi0rq88g,../data/attempt/44193.csv
+0,Multicast,NNP,O,Multicast,../data/attempt/44192.csv
+0,DNS,NNP,O,DNS,../data/attempt/44192.csv
+0,Vulnerability,NNP,O,Vulnerability,../data/attempt/44192.csv
+0,Could,MD,O,could,../data/attempt/44192.csv
+0,Lead,JJ,O,lead,../data/attempt/44192.csv
+0,to,TO,O,to,../data/attempt/44192.csv
+0,DDOS,NNP,O,DDOS,../data/attempt/44192.csv
+0,Amplification,NNP,O,Amplification,../data/attempt/44192.csv
+0,Attacks,NNS,CAUSE_OF_DEATH,attack,../data/attempt/44192.csv
+0,http://buff.ly/1aiZt64 ,NN,O,http://buff.ly/1aizt64 ,../data/attempt/44192.csv
+0,#cybersecurity,NN,O,#cybersecurity,../data/attempt/44192.csv
+0,Multicast,NNP,O,Multicast,../data/attempt/44189.csv
+0,DNS,NNP,O,DNS,../data/attempt/44189.csv
+0,Vulnerability,NNP,O,Vulnerability,../data/attempt/44189.csv
+0,Could,MD,O,could,../data/attempt/44189.csv
+0,Lead,JJ,O,lead,../data/attempt/44189.csv
+0,to,TO,O,to,../data/attempt/44189.csv
+0,DDOS,NNP,O,DDOS,../data/attempt/44189.csv
+0,Amplification,NNP,O,Amplification,../data/attempt/44189.csv
+0,Attacks,NNS,CAUSE_OF_DEATH,attack,../data/attempt/44189.csv
+0,http://bit.ly/1GLvBLG ,NN,O,http://bit.ly/1glvblg ,../data/attempt/44189.csv
+0,#security,NN,O,#security,../data/attempt/44189.csv
+0,#infosec,NN,O,#infosec,../data/attempt/44189.csv
